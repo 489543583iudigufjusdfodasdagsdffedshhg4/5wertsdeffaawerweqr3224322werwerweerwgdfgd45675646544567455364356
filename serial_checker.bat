@@ -1,4 +1,524 @@
 @echo off
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
+echo NO.
 color 0a                                                                                                                                                                                                   ";
 echo Baseboard
 wmic baseboard get serialnumber
